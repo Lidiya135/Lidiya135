@@ -2,7 +2,7 @@
 
 #### ✨ _About Me_ ✨
 
-- 🌱 I’m currently learning web development but passionate frontend developer
+- 🌱 I’m currently learning web development but more interested in frontend developer
 - 💬 Ask me about anything you want
 - 📫 How to reach me: lidiyawati315@gmail.com
 - 😄 Pronouns: She/Her
