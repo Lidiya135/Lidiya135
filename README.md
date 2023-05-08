@@ -10,7 +10,7 @@
 
 #### ✨ _My github stats_ <br><br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lidiya135&show_icons=true&include_all_commits=true&theme=monokai" alt="" /><br />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lidiya135&show_icons=true&include_all_commits=true&theme=monokai" alt="" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lidiya135&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lidiya135&layout=compact&theme=monokai&langs_count=12"/><br />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lidiya135&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
